@@ -4,7 +4,7 @@ const Header = () => {
     return(
         <div className="container">
             <div className="title">
-            Plan a Tour
+            Welcome to ExploreX
             </div>
         </div>
     )
